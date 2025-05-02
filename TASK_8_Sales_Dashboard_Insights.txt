@@ -1,0 +1,7 @@
+
+TASK 8: Simple Sales Dashboard Design – Insights
+
+1. Technology is the top-performing category, contributing the largest share of total sales (~36.7%), slightly ahead of Office Supplies.
+2. Sales peaked in December 2023, making it the highest revenue month overall.
+3. The West region dominates in performance, appearing frequently across top sales months and categories.
+4. Furniture has the lowest sales share, indicating a potential area for growth or marketing focus.
